@@ -1,0 +1,53 @@
+c:\users\533766\documents\visual studio 2017\Projects\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+c:\users\533766\documents\visual studio 2017\Projects\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+c:\users\533766\documents\visual studio 2017\Projects\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+c:\users\533766\documents\visual studio 2017\Projects\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csprojResolveAssemblyReference.cache
+c:\users\533766\documents\visual studio 2017\Projects\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+c:\users\533766\documents\visual studio 2017\Projects\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csprojResolveAssemblyReference.cache
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.csprojResolveAssemblyReference.cache
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\533766\Dropbox\Teaching\AI\Coursework\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\uni\AI\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\Sam\Desktop\uni\AI\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\uni\AI\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\uni\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\uni\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\uni\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\uni\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+\\adir.hull.ac.uk\home\579\579952\Desktop\AI\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+\\adir.hull.ac.uk\home\579\579952\Desktop\AI\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+\\adir.hull.ac.uk\home\579\579952\Desktop\AI\AIACWSkeleton\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+\\adir.hull.ac.uk\home\579\579952\Desktop\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\579\579952\Desktop\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\579\579952\Desktop\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+\\adir.hull.ac.uk\home\579\579952\Desktop\AI\AIACWSkeleton\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\uni\AI\AIACW Final\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\Sam\Desktop\uni\AI\AIACW Final\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\uni\AI\AIACW Final\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\uni\AI\AIACW Final\ConsoleApp38\obj\Debug\ConsoleApp38.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\uni\AI\AIACW Final\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\uni\AI\AIACW Final\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\uni\AI\AIACW Final\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\579952\AIACW Code\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\Sam\Desktop\579952\AIACW Code\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\579952\AIACW Code\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\579952\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\579952\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\579952\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\579952\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\portfolio\AIACW Code\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\Sam\Desktop\portfolio\AIACW Code\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\portfolio\AIACW Code\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\Sam\Desktop\portfolio\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\portfolio\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\portfolio\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\Sam\Desktop\portfolio\AIACW Code\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
